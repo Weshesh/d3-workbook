@@ -1,4 +1,4 @@
-import React, { PureComponent } from "react/cjs/react.development";
+import React, { PureComponent } from 'react';
 
 class App extends PureComponent {
   render() {
