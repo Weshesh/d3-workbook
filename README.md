@@ -34,3 +34,6 @@ Topics to cover:
     2. Data change etc.
   4. Interactions
   5. Animations.
+  n. use fetch api
+  n. use date functions.
+  n. use inport functions (csv, json etc)
