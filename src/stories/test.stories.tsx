@@ -7,6 +7,7 @@ type dataPoint = {
   y: number
 };
 
+/// TODO: use .csv
 const exampleData: dataPoint[] = [
   { x: 100, y: 50 },
   { x: 200, y: 100 },
