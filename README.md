@@ -1,17 +1,22 @@
 # D3.js Workbook
 
-A Storybook based project filled with various D3.js related practices.
+A Storybook based project filled with various D3.js related code examples and practices.
 
 ## The goal:
-  of this project is to go through all/most of the d3.js api,  deepen my knowledge about d3.js in general. Learn thoroughly it´s inner workings, capabilities and possible uses.*
+  Go through the whole (or at least the bigger part) of the d3.js api. Deepen my knowledge about d3.js in general. Learn thoroughly it´s inner workings, capabilities and possible uses.*
+
+## Goals:
+  1. Acquire expert skills about D3.js.
+  2. How to effectively use D3.js with React and TypeScript.
+  3. Deepen my knowledge about webpack, babel and other build tools.
 
 ## To get started:
   Use the usual `npm start` to start the application.
 
-## Goals:
-  2. Acquire expert skills about D3.js. Learn it´s inner workings, capabilities and possible uses.
-´´´
-
+## Based on:
+  * Various web based articles.
+  * D3 for the Impatient - P. K. Janert.
+  * Fullstack D3 - A. Earhart.
 
 
 Topics to cover:
