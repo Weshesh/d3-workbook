@@ -51,7 +51,7 @@ class Kana extends PureComponent {
 }
 
 export default {
-  title: 'D3 examples/First try',
+  title: 'Dot chart/First try',
   component: Kana,
   argTypes: {
   },
