@@ -2,7 +2,7 @@
 
 A Storybook based project filled with various D3.js related code examples and practices.
 
-## The goal:
+## The purpose of the workbook:
   Go through the whole (or at least the bigger part) of the d3.js api. Deepen my knowledge about d3.js in general. Learn thoroughly it´s inner workings, capabilities and possible uses.*
 
 ## Goals:
